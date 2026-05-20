@@ -1,0 +1,402 @@
+﻿Data;Hora;Tipo;Quantidade;Item
+01/01/2026;06:22:47;Saida;3;Palheta do limpador (par)
+01/01/2026;17:41:53;Saida;2;Macacao mecanico
+02/01/2026;06:22:47;Entrada;1;Motor de arranque (recond.)
+02/01/2026;16:12:47;Entrada;1;Furadeira de impacto
+03/01/2026;09:35:29;Saida;4;Lampada de seta (unid)
+03/01/2026;09:52:07;Entrada;3;Bobina de ignicao
+03/01/2026;13:11:09;Entrada;6;Bieleta de suspensao
+03/01/2026;14:06:38;Saida;3;Bobina de ignicao
+03/01/2026;15:18:46;Entrada;1;Chicote eletrico (metro)
+04/01/2026;07:18:54;Entrada;6;Fita crepe (rolo)
+04/01/2026;10:08:51;Saida;4;Chicote eletrico (metro)
+04/01/2026;10:44:18;Saida;3;Terminal de direcao
+04/01/2026;14:41:57;Entrada;1;Escova de aco
+05/01/2026;07:52:41;Saida;2;Fita isolante (rolo)
+05/01/2026;11:38:57;Entrada;3;Lona de freio (conjunto)
+05/01/2026;13:47:02;Saida;2;Chave de roda
+05/01/2026;18:14:06;Entrada;1;Scanner automotivo
+06/01/2026;14:23:15;Entrada;1;Compressor de ar
+06/01/2026;16:29:31;Entrada;6;Fita crepe (rolo)
+06/01/2026;17:22:19;Entrada;2;Aditivo de combustivel
+07/01/2026;07:03:19;Saida;2;Cilindro de roda
+07/01/2026;09:52:07;Saida;4;Vela de ignicao (jogo)
+07/01/2026;11:19:23;Entrada;3;Fluido de freio - 500ml
+07/01/2026;16:29:31;Entrada;1;Shampoo para carros (5L)
+07/01/2026;17:22:19;Saida;2;Amortecedor traseiro (par)
+07/01/2026;17:22:19;Saida;4;Aditivo de radiador (1L)
+08/01/2026;09:52:07;Entrada;6;Oculos de protecao
+08/01/2026;11:38:57;Entrada;9;Tampa de valvula (unid)
+08/01/2026;11:39:58;Entrada;3;Extintor de incendio
+08/01/2026;14:31:57;Entrada;2;Triangulo de seguranca
+08/01/2026;17:22:19;Entrada;6;Rele universal 4/5 pinos
+08/01/2026;17:41:53;Saida;1;Oleo de transmissao - 1L
+09/01/2026;06:41:33;Saida;1;Correia dentada (sincronismo)
+09/01/2026;07:35:08;Entrada;1;Correia poly-v
+09/01/2026;08:09:27;Entrada;1;Medidor de pressao de pneus
+09/01/2026;08:24:53;Saida;1;Filtro de oleo - diversos
+09/01/2026;11:38:57;Entrada;9;Fita isolante (rolo)
+09/01/2026;13:28:44;Entrada;2;Fluido de freio - 500ml
+09/01/2026;14:41:57;Saida;3;Filtro de combustivel
+10/01/2026;09:41:20;Entrada;6;Graxa lubrificante - 400g
+10/01/2026;09:52:07;Saida;1;Barra estabilizadora
+10/01/2026;11:38:57;Saida;1;Bomba de combustivel
+10/01/2026;13:47:02;Entrada;3;Camara de ar
+10/01/2026;18:14:06;Saida;6;Liquido de arrefecimento - 5L
+11/01/2026;10:44:18;Saida;2;Cola de vedacao (silicone)
+11/01/2026;10:44:18;Saida;3;Pastilha de freio (jogo)
+11/01/2026;12:04:31;Entrada;3;Vela de ignicao (jogo)
+11/01/2026;13:28:44;Saida;5;Fita isolante (rolo)
+12/01/2026;09:01:38;Entrada;1;Teste de compressao
+12/01/2026;09:02:38;Entrada;1;Compressor de ar
+12/01/2026;09:17:44;Saida;4;Luvas de raspa
+12/01/2026;13:44:06;Entrada;2;Pistola de ar comprimido
+12/01/2026;15:00:22;Saida;4;Fluido de freio - 500ml
+12/01/2026;17:41:53;Entrada;1;Cilindro mestre
+13/01/2026;17:22:19;Entrada;1;Sensor de temperatura
+14/01/2026;06:12:34;Entrada;2;Furadeira de impacto
+14/01/2026;10:08:51;Saida;3;Bieleta de suspensao
+14/01/2026;14:06:38;Entrada;1;Sensor de rotacao
+14/01/2026;14:06:38;Saida;2;Aditivo de radiador (1L)
+14/01/2026;14:08:33;Entrada;2;Esmerilhadeira angular
+14/01/2026;14:55:12;Entrada;2;Parafusadeira eletrica
+14/01/2026;15:37:19;Saida;1;Pano de microfibra (pacote)
+14/01/2026;16:12:47;Entrada;1;Teste de compressao
+14/01/2026;17:58:27;Entrada;1;Esmerilhadeira angular
+14/01/2026;18:14:06;Entrada;2;Pastilha de freio (jogo)
+15/01/2026;07:28:51;Entrada;3;Chave Philips (kit)
+15/01/2026;10:48:31;Entrada;4;Sensor de temperatura
+15/01/2026;15:20:45;Entrada;2;Chave de fenda (kit)
+15/01/2026;18:05:26;Entrada;3;Sensor de rotacao
+16/01/2026;09:01:38;Entrada;1;Jogo de soquetes (catraca)
+16/01/2026;14:23:15;Saida;2;Oculos de protecao
+17/01/2026;06:41:33;Saida;8;Pano de microfibra (pacote)
+17/01/2026;16:12:47;Saida;1;Aditivo de radiador (1L)
+17/01/2026;18:14:06;Entrada;6;Vela de ignicao (jogo)
+18/01/2026;07:28:51;Entrada;3;Jogo de soquetes (catraca)
+18/01/2026;16:29:17;Entrada;2;Torquimetro
+19/01/2026;10:44:18;Entrada;2;Correia do alternador
+19/01/2026;13:28:44;Saida;1;Bieleta de suspensao
+19/01/2026;14:41:57;Saida;3;Cabo de vela (jogo)
+19/01/2026;17:05:44;Entrada;22;Valvula de pneu (unid)
+20/01/2026;07:35:08;Saida;4;Oleo de transmissao - 1L
+20/01/2026;10:44:18;Entrada;3;Chicote eletrico (metro)
+20/01/2026;11:19:23;Entrada;2;Cera automotiva (500g)
+20/01/2026;17:05:44;Saida;1;Oleo de motor (lubrificante) - 1L
+20/01/2026;17:22:19;Saida;1;Alicate universal
+21/01/2026;15:00:22;Entrada;2;Mola helicoidal (par)
+22/01/2026;07:03:22;Entrada;4;Amortecedor traseiro (par)
+22/01/2026;07:28:51;Entrada;4;Amortecedor dianteiro (par)
+22/01/2026;07:28:51;Entrada;8;Coxim do amortecedor
+22/01/2026;07:55:09;Entrada;2;Alicate de corte
+22/01/2026;09:02:38;Entrada;4;Alicate universal
+22/01/2026;09:02:38;Entrada;2;Alicate de bico
+22/01/2026;11:14:44;Entrada;2;Mola helicoidal (par)
+22/01/2026;15:18:46;Saida;3;Desengripante (WD-40) - 300ml
+23/01/2026;10:08:51;Saida;3;Lona de freio (conjunto)
+24/01/2026;09:35:29;Entrada;2;Macaneta externa universal
+25/01/2026;08:10:47;Entrada;8;Fita crepe (rolo)
+25/01/2026;09:17:44;Entrada;4;Bobina de ignicao
+25/01/2026;10:48:31;Entrada;15;Fita isolante (rolo)
+25/01/2026;10:48:31;Entrada;12;Cola de vedacao (silicone)
+25/01/2026;11:02:46;Saida;8;Luvas de raspa
+25/01/2026;12:07:19;Entrada;4;Parafusos diversos (kit)
+25/01/2026;15:20:45;Entrada;4;Porcas e arruelas (kit)
+25/01/2026;17:48:52;Entrada;6;Abracadeira de nylon (100 unid)
+26/01/2026;16:48:08;Saida;1;Palheta do limpador (par)
+27/01/2026;07:52:41;Saida;15;Valvula de pneu (unid)
+29/01/2026;07:52:41;Saida;1;Sensor de rotacao
+30/01/2026;06:41:33;Saida;1;Chave de fenda (kit)
+30/01/2026;08:09:27;Saida;7;Vela de ignicao (jogo)
+30/01/2026;08:33:15;Entrada;2;Multimetro digital
+30/01/2026;16:03:51;Entrada;2;Scanner automotivo
+30/01/2026;16:12:47;Saida;4;Filtro de oleo - diversos
+31/01/2026;08:43:16;Saida;2;Cola de vedacao (silicone)
+31/01/2026;09:52:07;Saida;4;Lampada de farol H4 (par)
+31/01/2026;17:05:44;Entrada;3;Aditivo de radiador (1L)
+01/02/2026;09:17:44;Entrada;4;Oleo de transmissao - 1L
+01/02/2026;11:19:23;Saida;1;Oleo de motor (lubrificante) - 1L
+01/02/2026;14:23:15;Saida;1;Abracadeira de nylon (100 unid)
+01/02/2026;15:00:22;Saida;1;Filtro de oleo - diversos
+02/02/2026;07:03:22;Entrada;4;Cera automotiva (500g)
+02/02/2026;09:02:38;Entrada;20;Pano de microfibra (pacote)
+02/02/2026;10:44:18;Saida;2;Liquido de arrefecimento - 5L
+02/02/2026;16:29:31;Entrada;1;Tensionador de correia
+02/02/2026;18:05:26;Entrada;3;Shampoo para carros (5L)
+03/02/2026;07:03:22;Entrada;2;Macaco hidraulico
+03/02/2026;08:09:27;Saida;9;Filtro de oleo - diversos
+03/02/2026;10:08:51;Entrada;1;Chave de fenda (kit)
+03/02/2026;10:27:33;Entrada;1;Multimetro digital
+03/02/2026;12:04:31;Entrada;1;Pano multiuso (pacote)
+04/02/2026;08:24:53;Entrada;6;Aditivo de combustivel
+04/02/2026;13:28:44;Entrada;1;Fluido de freio - 500ml
+04/02/2026;14:41:57;Entrada;6;Aditivo de radiador (1L)
+05/02/2026;09:41:20;Entrada;3;Chave ajustavel (grifo)
+05/02/2026;16:29:31;Entrada;11;Oleo de transmissao - 1L
+05/02/2026;17:23:39;Entrada;8;Escova de aco
+06/02/2026;06:05:12;Saida;5;Bucha de suspensao (kit)
+06/02/2026;09:01:38;Entrada;5;Fita isolante (rolo)
+06/02/2026;11:38:57;Saida;1;Espelho retrovisor universal
+06/02/2026;14:06:38;Entrada;1;Pastilha de freio (jogo)
+07/02/2026;09:52:07;Saida;1;Terminal de direcao
+08/02/2026;07:35:08;Entrada;10;Liquido de arrefecimento - 5L
+08/02/2026;07:52:41;Saida;4;Bucha de suspensao (kit)
+08/02/2026;08:24:53;Entrada;4;Alicate universal
+08/02/2026;08:43:16;Entrada;8;Filtro de ar do motor
+09/02/2026;07:35:08;Entrada;2;Chave combinada (jogo)
+09/02/2026;09:35:29;Saida;5;Oleo de transmissao - 1L
+09/02/2026;09:52:07;Entrada;2;Filtro de cabine
+10/02/2026;07:03:19;Entrada;2;Tampa do combustivel
+10/02/2026;09:35:29;Entrada;1;Terminal de direcao
+10/02/2026;09:41:20;Entrada;12;Bucha de suspensao (kit)
+10/02/2026;10:48:31;Entrada;2;Barra estabilizadora
+10/02/2026;10:48:31;Entrada;5;Pivo de suspensao
+10/02/2026;14:55:12;Entrada;7;Bieleta de suspensao
+10/02/2026;18:05:26;Entrada;6;Terminal de direcao
+11/02/2026;07:18:54;Saida;3;Calco de roda (par)
+11/02/2026;08:43:16;Saida;1;Chave de roda
+11/02/2026;10:27:33;Saida;2;Fita isolante (rolo)
+11/02/2026;10:44:18;Saida;1;Tampa de valvula (unid)
+11/02/2026;11:02:46;Entrada;2;Correia dentada (sincronismo)
+11/02/2026;13:11:09;Entrada;1;Extintor de incendio
+11/02/2026;16:29:31;Entrada;2;Multimetro digital
+12/02/2026;08:33:15;Entrada;5;Camara de ar
+12/02/2026;10:44:18;Entrada;6;Graxa lubrificante - 400g
+12/02/2026;10:48:31;Entrada;6;Pneu (unidade) - medidas comuns
+12/02/2026;15:18:46;Saida;1;Chave de fenda (kit)
+12/02/2026;15:47:28;Entrada;2;Chave de roda
+12/02/2026;15:47:28;Entrada;40;Valvula de pneu (unid)
+13/02/2026;09:52:07;Saida;1;Valvula de pneu (unid)
+13/02/2026;10:44:18;Saida;3;Fusivel (kit sortido)
+13/02/2026;13:28:44;Entrada;9;Lampada de seta (unid)
+14/02/2026;14:06:38;Saida;1;Tampa de valvula (unid)
+14/02/2026;15:18:46;Entrada;7;Fita isolante (rolo)
+15/02/2026;08:09:27;Saida;7;Valvula de pneu (unid)
+15/02/2026;09:17:44;Saida;8;Filtro de ar do motor
+16/02/2026;07:35:08;Saida;4;Oleo de transmissao - 1L
+16/02/2026;09:01:38;Saida;9;Oleo de transmissao - 1L
+16/02/2026;11:02:46;Saida;2;Valvula de pneu (unid)
+16/02/2026;14:23:15;Saida;6;Aditivo de radiador (1L)
+16/02/2026;15:54:03;Saida;6;Filtro de combustivel
+16/02/2026;17:58:27;Saida;1;Terminal de direcao
+17/02/2026;06:41:33;Saida;1;Filtro de combustivel
+17/02/2026;07:18:54;Saida;3;Calco de roda (par)
+17/02/2026;10:44:18;Entrada;1;Multimetro digital
+17/02/2026;14:08:33;Entrada;2;Medidor de pressao de pneus
+17/02/2026;17:05:44;Entrada;1;Esmerilhadeira angular
+18/02/2026;07:55:09;Entrada;5;Disco de freio (par)
+18/02/2026;08:33:15;Entrada;4;Cilindro de roda
+18/02/2026;09:41:20;Entrada;7;Pastilha de freio (jogo)
+18/02/2026;10:22:07;Entrada;6;Lona de freio (conjunto)
+18/02/2026;11:02:46;Saida;1;Extintor de incendio
+18/02/2026;13:47:02;Entrada;3;Cilindro de roda
+18/02/2026;17:01:04;Entrada;2;Cilindro mestre
+18/02/2026;17:05:44;Saida;6;Tampa de valvula (unid)
+19/02/2026;09:52:07;Entrada;1;Scanner automotivo
+20/02/2026;06:12:34;Entrada;2;Chave combinada (jogo)
+20/02/2026;14:55:12;Entrada;2;Motor de arranque (recond.)
+20/02/2026;15:20:45;Entrada;2;Alternador (recondicionado)
+20/02/2026;17:48:52;Entrada;4;Bateria automotiva 60Ah
+21/02/2026;08:43:16;Saida;2;Pivo de suspensao
+21/02/2026;10:27:33;Saida;2;Correia do alternador
+21/02/2026;15:18:46;Saida;1;Desengraxante - 5L
+21/02/2026;17:58:27;Saida;2;Alicate universal
+23/02/2026;06:41:33;Entrada;2;Jogo de soquetes (catraca)
+23/02/2026;07:03:19;Entrada;4;Macacao mecanico
+23/02/2026;07:03:19;Saida;2;Correia poly-v
+23/02/2026;09:35:29;Saida;6;Luvas de raspa
+23/02/2026;11:02:46;Entrada;2;Alicate universal
+23/02/2026;13:28:44;Entrada;2;Lona de freio (conjunto)
+23/02/2026;14:41:57;Saida;6;Pano de microfibra (pacote)
+23/02/2026;16:29:31;Saida;1;Oleo de motor (lubrificante) - 1L
+23/02/2026;16:29:31;Saida;1;Chave de roda
+24/02/2026;07:18:54;Saida;1;Limpador de contatos eletricos
+24/02/2026;07:18:54;Saida;1;Chave ajustavel (grifo)
+24/02/2026;07:52:41;Entrada;3;Liquido de arrefecimento - 5L
+25/02/2026;06:12:34;Entrada;15;Luvas de raspa
+25/02/2026;06:45:10;Entrada;8;Oculos de protecao
+25/02/2026;07:03:22;Entrada;6;Macacao mecanico
+25/02/2026;08:33:15;Entrada;3;Capacete
+25/02/2026;09:01:38;Saida;4;Lampada de farol H4 (par)
+25/02/2026;09:01:38;Saida;4;Aditivo de combustivel
+26/02/2026;09:01:38;Saida;1;Vela de ignicao (jogo)
+26/02/2026;09:17:44;Saida;2;Bobina de ignicao
+27/02/2026;06:05:12;Saida;18;Valvula de pneu (unid)
+27/02/2026;11:19:23;Entrada;1;Jogo de soquetes (catraca)
+27/02/2026;16:29:31;Saida;1;Mola helicoidal (par)
+27/02/2026;18:14:06;Saida;1;Pano de microfibra (pacote)
+28/02/2026;06:45:10;Entrada;8;Chicote eletrico (metro)
+28/02/2026;07:03:22;Entrada;10;Rele universal 4/5 pinos
+28/02/2026;07:18:54;Entrada;6;Bucha de suspensao (kit)
+28/02/2026;08:33:15;Entrada;15;Lampada de seta (unid)
+28/02/2026;09:02:38;Entrada;18;Oleo de transmissao - 1L
+28/02/2026;11:39:58;Entrada;45;Oleo de motor (lubrificante) - 1L
+28/02/2026;13:47:02;Entrada;1;Rele universal 4/5 pinos
+28/02/2026;14:31:57;Entrada;12;Lampada de farol H4 (par)
+28/02/2026;16:03:51;Entrada;8;Fusivel (kit sortido)
+28/02/2026;17:22:19;Saida;1;Filtro de combustivel
+01/03/2026;07:03:22;Entrada;15;Vela de ignicao (jogo)
+01/03/2026;10:05:53;Entrada;5;Bobina de ignicao
+01/03/2026;10:27:33;Saida;2;Bobina de ignicao
+01/03/2026;14:08:33;Entrada;6;Cabo de vela (jogo)
+01/03/2026;15:37:19;Saida;1;Compressor de ar
+01/03/2026;17:58:27;Entrada;3;Cilindro de roda
+02/03/2026;08:09:27;Saida;4;Coxim do amortecedor
+03/03/2026;07:03:19;Saida;4;Valvula de pneu (unid)
+03/03/2026;07:52:41;Entrada;1;Alicate de corte
+03/03/2026;09:17:44;Saida;1;Alternador (recondicionado)
+03/03/2026;13:28:44;Entrada;1;Chave de roda
+03/03/2026;14:23:15;Saida;2;Oculos de protecao
+03/03/2026;15:54:03;Saida;24;Oleo de motor (lubrificante) - 1L
+04/03/2026;10:44:18;Saida;6;Aditivo de radiador (1L)
+05/03/2026;06:45:10;Entrada;6;Correia do alternador
+05/03/2026;07:28:51;Entrada;2;Bomba de combustivel
+05/03/2026;10:27:33;Saida;1;Chave de fenda (kit)
+05/03/2026;11:14:44;Entrada;2;Bomba de oleo
+05/03/2026;12:07:19;Entrada;3;Tensionador de correia
+05/03/2026;14:06:38;Saida;3;Cola de vedacao (silicone)
+05/03/2026;14:08:33;Entrada;3;Bomba d'agua
+05/03/2026;15:20:45;Entrada;1;Voltimetro automotivo
+05/03/2026;16:03:51;Entrada;1;Teste de compressao
+05/03/2026;16:29:17;Entrada;5;Correia poly-v
+05/03/2026;17:23:39;Entrada;5;Correia dentada (sincronismo)
+06/03/2026;16:12:47;Entrada;7;Bucha de suspensao (kit)
+06/03/2026;16:29:31;Entrada;2;Alicate universal
+07/03/2026;09:35:29;Saida;1;Oleo de motor (lubrificante) - 1L
+07/03/2026;14:41:57;Saida;8;Filtro de oleo - diversos
+07/03/2026;15:54:03;Saida;2;Cilindro de roda
+08/03/2026;07:28:51;Entrada;14;Aditivo de combustivel
+08/03/2026;09:41:20;Entrada;3;Junta do cabecote
+08/03/2026;11:14:44;Entrada;15;Tampa de valvula (unid)
+08/03/2026;17:58:27;Entrada;1;Macaco hidraulico
+08/03/2026;18:05:26;Entrada;12;Aditivo de radiador (1L)
+09/03/2026;08:24:53;Saida;1;Abracadeira de nylon (100 unid)
+09/03/2026;09:52:07;Saida;1;Terminal de direcao
+09/03/2026;10:08:51;Entrada;1;Martelo de borracha
+09/03/2026;15:00:22;Entrada;1;Triangulo de seguranca
+10/03/2026;06:22:47;Saida;1;Fluido de freio - 500ml
+10/03/2026;09:02:38;Entrada;3;Espelho retrovisor universal
+10/03/2026;10:05:53;Entrada;4;Tampa do combustivel
+10/03/2026;11:38:57;Entrada;8;Desengripante (WD-40) - 300ml
+10/03/2026;14:08:33;Entrada;2;Martelo de borracha
+10/03/2026;14:23:15;Entrada;2;Cilindro mestre
+10/03/2026;15:47:28;Entrada;12;Palheta do limpador (par)
+10/03/2026;16:29:17;Entrada;5;Chave inglesa
+10/03/2026;16:29:17;Entrada;2;Martelo de bola
+10/03/2026;17:01:04;Entrada;4;Macaneta externa universal
+12/03/2026;08:10:47;Entrada;22;Filtro de oleo - diversos
+12/03/2026;10:22:07;Entrada;6;Filtro de cabine
+12/03/2026;11:39:58;Entrada;10;Filtro de combustivel
+12/03/2026;15:00:22;Entrada;3;Cabo de vela (jogo)
+12/03/2026;16:03:51;Entrada;15;Filtro de ar do motor
+13/03/2026;06:22:47;Entrada;1;Torquimetro
+13/03/2026;07:03:19;Saida;3;Bieleta de suspensao
+13/03/2026;08:24:53;Saida;4;Oleo de motor (lubrificante) - 1L
+14/03/2026;06:22:47;Entrada;12;Lampada de seta (unid)
+14/03/2026;09:01:38;Saida;1;Alicate universal
+14/03/2026;12:04:31;Entrada;1;Junta do cabecote
+15/03/2026;09:41:20;Entrada;2;Peso de balanceamento (kit)
+15/03/2026;11:38:57;Entrada;4;Tampa de valvula (unid)
+15/03/2026;11:38:57;Saida;6;Fita isolante (rolo)
+15/03/2026;12:07:19;Entrada;8;Fluido de freio - 500ml
+15/03/2026;13:47:02;Saida;2;Terminal de direcao
+15/03/2026;13:47:02;Saida;1;Oleo de motor (lubrificante) - 1L
+15/03/2026;14:31:57;Entrada;12;Liquido de arrefecimento - 5L
+15/03/2026;16:03:51;Entrada;6;Calco de roda (par)
+15/03/2026;17:58:27;Saida;2;Valvula de pneu (unid)
+16/03/2026;07:35:08;Saida;2;Bieleta de suspensao
+16/03/2026;09:35:29;Entrada;1;Cilindro mestre
+16/03/2026;11:38:57;Entrada;1;Scanner automotivo
+16/03/2026;15:18:46;Entrada;6;Cabo de vela (jogo)
+17/03/2026;10:44:18;Entrada;28;Oleo de motor (lubrificante) - 1L
+17/03/2026;15:37:19;Entrada;5;Macacao mecanico
+17/03/2026;16:12:47;Saida;7;Filtro de ar do motor
+20/03/2026;06:12:34;Entrada;4;Desengraxante - 5L
+20/03/2026;06:22:47;Saida;13;Oleo de motor (lubrificante) - 1L
+20/03/2026;08:24:53;Entrada;4;Limpador de contatos eletricos
+20/03/2026;09:35:29;Entrada;1;Furadeira de impacto
+20/03/2026;17:01:04;Entrada;6;Pano multiuso (pacote)
+20/03/2026;17:23:39;Entrada;18;Desengripante (WD-40) - 300ml
+20/03/2026;18:05:26;Entrada;8;Limpador de contatos eletricos
+21/03/2026;09:01:38;Saida;1;Medidor de pressao de pneus
+21/03/2026;09:52:07;Saida;3;Bucha de suspensao (kit)
+21/03/2026;15:47:28;Saida;3;Chave inglesa
+21/03/2026;15:54:03;Saida;1;Chave inglesa
+22/03/2026;06:22:47;Entrada;5;Tampa de valvula (unid)
+22/03/2026;10:08:51;Saida;5;Valvula de pneu (unid)
+23/03/2026;08:43:16;Saida;3;Graxa lubrificante - 400g
+23/03/2026;17:58:27;Entrada;4;Filtro de oleo - diversos
+24/03/2026;09:35:29;Saida;1;Filtro de combustivel
+24/03/2026;10:27:33;Saida;2;Fluido de freio - 500ml
+24/03/2026;14:41:57;Entrada;1;Parafusadeira eletrica
+26/03/2026;16:12:47;Saida;5;Fita isolante (rolo)
+26/03/2026;18:14:06;Saida;4;Escova de aco
+27/03/2026;12:04:31;Saida;5;Vela de ignicao (jogo)
+29/03/2026;15:18:46;Saida;4;Palheta do limpador (par)
+30/03/2026;09:52:07;Entrada;3;Desengraxante - 5L
+30/03/2026;10:08:51;Saida;1;Jogo de soquetes (catraca)
+30/03/2026;11:38:57;Entrada;3;Luvas de raspa
+31/03/2026;12:04:31;Saida;1;Triangulo de seguranca
+31/03/2026;16:48:08;Entrada;1;Liquido de arrefecimento - 5L
+01/04/2026;08:43:16;Saida;1;Extintor de incendio
+02/04/2026;06:05:12;Entrada;3;Desengraxante - 5L
+02/04/2026;11:38:57;Entrada;2;Macaneta externa universal
+02/04/2026;17:05:44;Saida;6;Tampa de valvula (unid)
+03/04/2026;07:35:08;Saida;4;Palheta do limpador (par)
+03/04/2026;09:01:38;Saida;1;Furadeira de impacto
+03/04/2026;18:14:06;Entrada;1;Tampa do combustivel
+04/04/2026;08:09:27;Entrada;2;Pistola de ar comprimido
+06/04/2026;06:41:33;Saida;7;Desengripante (WD-40) - 300ml
+06/04/2026;07:52:41;Saida;2;Coxim do amortecedor
+06/04/2026;12:04:31;Saida;3;Filtro de ar do motor
+06/04/2026;14:41:57;Saida;1;Macaneta externa universal
+06/04/2026;15:54:03;Saida;3;Oculos de protecao
+08/04/2026;07:35:08;Saida;22;Oleo de motor (lubrificante) - 1L
+08/04/2026;09:52:07;Saida;5;Pano de microfibra (pacote)
+08/04/2026;15:18:46;Saida;1;Correia dentada (sincronismo)
+09/04/2026;06:41:33;Entrada;2;Cera automotiva (500g)
+09/04/2026;14:23:15;Saida;1;Alicate de corte
+10/04/2026;06:05:12;Saida;2;Aditivo de combustivel
+10/04/2026;08:43:16;Saida;1;Amortecedor traseiro (par)
+10/04/2026;11:19:23;Saida;2;Correia poly-v
+10/04/2026;14:06:38;Entrada;4;Pivo de suspensao
+10/04/2026;16:29:31;Saida;4;Oleo de transmissao - 1L
+11/04/2026;08:24:53;Saida;6;Cola de vedacao (silicone)
+12/04/2026;09:52:07;Saida;2;Fita crepe (rolo)
+12/04/2026;10:44:18;Saida;6;Bucha de suspensao (kit)
+12/04/2026;11:02:46;Saida;4;Oleo de motor (lubrificante) - 1L
+13/04/2026;07:03:19;Saida;1;Tampa do combustivel
+13/04/2026;10:44:18;Saida;1;Junta do cabecote
+13/04/2026;14:23:15;Saida;1;Macaneta externa universal
+14/04/2026;10:27:33;Entrada;5;Cola de vedacao (silicone)
+14/04/2026;14:23:15;Entrada;1;Motor de arranque (recond.)
+14/04/2026;16:29:31;Saida;3;Bieleta de suspensao
+15/04/2026;08:09:27;Saida;8;Valvula de pneu (unid)
+15/04/2026;12:04:31;Saida;5;Filtro de ar do motor
+15/04/2026;15:00:22;Entrada;14;Desengripante (WD-40) - 300ml
+16/04/2026;15:00:22;Saida;2;Rele universal 4/5 pinos
+16/04/2026;18:14:06;Entrada;15;Pano de microfibra (pacote)
+17/04/2026;08:24:53;Saida;1;Filtro de oleo - diversos
+18/04/2026;08:24:53;Saida;2;Bobina de ignicao
+18/04/2026;09:17:44;Entrada;1;Mola helicoidal (par)
+18/04/2026;15:18:46;Entrada;3;Alicate universal
+19/04/2026;11:38:57;Entrada;5;Escova de aco
+19/04/2026;16:29:31;Saida;1;Barra estabilizadora
+20/04/2026;07:03:19;Saida;1;Martelo de bola
+20/04/2026;13:47:02;Entrada;10;Bucha de suspensao (kit)
+20/04/2026;15:37:19;Entrada;15;Oleo de transmissao - 1L
+22/04/2026;11:02:46;Saida;1;Graxa lubrificante - 400g
+22/04/2026;16:29:31;Entrada;5;Limpador de contatos eletricos
+24/04/2026;08:09:27;Entrada;2;Medidor de pressao de pneus
+24/04/2026;11:38:57;Entrada;1;Amortecedor traseiro (par)
+25/04/2026;08:43:16;Entrada;3;Cera automotiva (500g)
+25/04/2026;09:35:29;Entrada;9;Luvas de raspa
+25/04/2026;16:12:47;Saida;1;Oleo de motor (lubrificante) - 1L
+27/04/2026;07:52:41;Saida;1;Correia dentada (sincronismo)
+27/04/2026;13:28:44;Entrada;20;Pano de microfibra (pacote)
+27/04/2026;14:06:38;Entrada;2;Camara de ar
+27/04/2026;15:37:19;Saida;2;Lampada de farol H4 (par)
+30/04/2026;11:02:46;Entrada;2;Lona de freio (conjunto)
+30/04/2026;16:29:31;Entrada;1;Martelo de bola
+01/05/2026;08:09:27;Entrada;2;Liquido de arrefecimento - 5L
+01/05/2026;15:37:19;Saida;2;Cabo de vela (jogo)

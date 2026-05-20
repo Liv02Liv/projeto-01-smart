@@ -1,0 +1,101 @@
+﻿Item;Quantidade;Status;Localizacao;Minimo;Maximo
+Chave de fenda (kit);0;Indisponivel;C1E1P1;1;4
+Chave Philips (kit);3;Disponivel;C1E1P2;1;4
+Chave combinada (jogo);4;Disponivel;C1E1P3;1;4
+Chave inglesa;1;Estoque de Seguranca;C1E1P4;2;8
+Chave ajustavel (grifo);2;Estoque de Seguranca;C1E1P5;2;6
+Alicate universal;11;Disponivel;C1E2P1;3;8
+Alicate de bico;2;Estoque de Seguranca;C1E2P2;2;5
+Alicate de corte;2;Estoque de Seguranca;C1E2P3;2;5
+Torquimetro;3;Disponivel;C1E2P4;1;3
+Jogo de soquetes (catraca);6;Disponivel;C1E2P5;2;5
+Chave de roda;-1;Estoque de Seguranca;C1E3P1;5;8
+Martelo de bola;2;Disponivel;C1E3P2;1;3
+Martelo de borracha;3;Disponivel;C1E3P3;1;3
+Macaco hidraulico;3;Disponivel;C1E3P4;1;3
+Triangulo de seguranca;2;Estoque de Seguranca;C1E3P5;2;5
+Extintor de incendio;2;Estoque de Seguranca;C1E4P1;2;4
+Oculos de protecao;7;Fazer Pedido;C1E4P2;5;15
+Luvas de raspa;9;Estoque de Seguranca;C1E4P3;10;30
+Macacao mecanico;13;Disponivel;C1E4P4;4;12
+Capacete;3;Fazer Pedido;C1E4P5;2;8
+Compressor de ar;1;Estoque de Seguranca;C1E5P1;1;2
+Pistola de ar comprimido;4;Disponivel;C1E5P2;2;4
+Parafusadeira eletrica;3;Disponivel;C1E5P3;1;3
+Furadeira de impacto;3;Disponivel;C1E5P4;1;3
+Esmerilhadeira angular;4;Disponivel;C1E5P5;1;3
+Multimetro digital;6;Disponivel;C2E1P1;2;4
+Scanner automotivo;5;Disponivel;C2E1P2;1;3
+Voltimetro automotivo;1;Estoque de Seguranca;C2E1P3;1;3
+Teste de compressao;3;Disponivel;C2E1P4;1;2
+Medidor de pressao de pneus;4;Disponivel;C2E1P5;2;5
+Oleo de motor (lubrificante) - 1L;0;Indisponivel;C2E2P1;30;80
+Oleo de transmissao - 1L;21;Disponivel;C2E2P2;10;30
+Fluido de freio - 500ml;7;Fazer Pedido;C2E2P3;6;15
+Liquido de arrefecimento - 5L;20;Disponivel;C2E2P4;8;20
+Graxa lubrificante - 400g;8;Disponivel;C2E2P5;4;12
+Desengripante (WD-40) - 300ml;30;Disponivel;C2E3P1;12;30
+Limpador de contatos eletricos;16;Disponivel;C2E3P2;6;15
+Desengraxante - 5L;9;Disponivel;C2E3P3;3;8
+Pano multiuso (pacote);7;Disponivel;C2E3P4;4;10
+Escova de aco;10;Disponivel;C2E3P5;5;15
+Filtro de oleo - diversos;2;Estoque de Seguranca;C2E4P1;15;40
+Filtro de ar do motor;0;Indisponivel;C2E4P2;10;30
+Filtro de combustivel;-2;Estoque de Seguranca;C2E4P3;8;20
+Filtro de cabine;8;Disponivel;C2E4P4;5;15
+Pastilha de freio (jogo);7;Fazer Pedido;C2E4P5;5;15
+Disco de freio (par);5;Fazer Pedido;C2E5P1;4;10
+Cilindro de roda;6;Disponivel;C2E5P2;3;8
+Cilindro mestre;6;Disponivel;C2E5P3;2;5
+Lona de freio (conjunto);10;Disponivel;C2E5P4;5;12
+Amortecedor dianteiro (par);4;Fazer Pedido;C2E5P5;3;8
+Amortecedor traseiro (par);2;Estoque de Seguranca;C3E1P1;3;8
+Mola helicoidal (par);4;Disponivel;C3E1P2;2;5
+Coxim do amortecedor;2;Estoque de Seguranca;C3E1P3;5;15
+Barra estabilizadora;0;Indisponivel;C3E1P4;2;5
+Terminal de direcao;-1;Estoque de Seguranca;C3E1P5;5;12
+Pivo de suspensao;7;Disponivel;C3E2P1;5;12
+Bieleta de suspensao;1;Estoque de Seguranca;C3E2P2;5;12
+Bucha de suspensao (kit);17;Disponivel;C3E2P3;8;20
+Correia dentada (sincronismo);4;Estoque de Seguranca;C3E2P4;4;10
+Correia do alternador;6;Fazer Pedido;C3E2P5;5;12
+Correia poly-v;2;Estoque de Seguranca;C3E3P1;4;10
+Tensionador de correia;4;Disponivel;C3E3P2;2;6
+Bomba d'agua;3;Fazer Pedido;C3E3P3;2;6
+Bomba de combustivel;1;Estoque de Seguranca;C3E3P4;2;5
+Bomba de oleo;2;Fazer Pedido;C3E3P5;1;4
+Vela de ignicao (jogo);7;Estoque de Seguranca;C3E4P1;10;25
+Cabo de vela (jogo);10;Disponivel;C3E4P2;5;12
+Bobina de ignicao;3;Estoque de Seguranca;C3E4P3;4;10
+Bateria automotiva 60Ah;4;Fazer Pedido;C3E4P4;3;8
+Alternador (recondicionado);1;Estoque de Seguranca;C3E4P5;2;4
+Motor de arranque (recond.);4;Disponivel;C3E5P1;2;4
+Sensor de rotacao;3;Estoque de Seguranca;C3E5P2;3;6
+Sensor de temperatura;5;Disponivel;C3E5P3;3;6
+Lampada de farol H4 (par);2;Estoque de Seguranca;C3E5P4;8;20
+Lampada de seta (unid);32;Disponivel;C3E5P5;10;25
+Fusivel (kit sortido);5;Estoque de Seguranca;C4E1P1;5;12
+Rele universal 4/5 pinos;15;Disponivel;C4E1P2;6;15
+Chicote eletrico (metro);8;Disponivel;C4E1P3;5;15
+Palheta do limpador (par);0;Indisponivel;C4E1P4;8;20
+Espelho retrovisor universal;2;Estoque de Seguranca;C4E1P5;2;5
+Macaneta externa universal;6;Disponivel;C4E2P1;2;6
+Tampa do combustivel;6;Disponivel;C4E2P2;2;6
+Cera automotiva (500g);11;Disponivel;C4E2P3;3;8
+Shampoo para carros (5L);4;Disponivel;C4E2P4;2;6
+Pano de microfibra (pacote);34;Disponivel;C4E2P5;15;40
+Aditivo de radiador (1L);2;Estoque de Seguranca;C4E3P1;8;20
+Aditivo de combustivel;16;Disponivel;C4E3P2;10;25
+Tampa de valvula (unid);19;Disponivel;C4E3P3;10;25
+Junta do cabecote;3;Disponivel;C4E3P4;2;5
+Parafusos diversos (kit);4;Disponivel;C4E3P5;2;6
+Porcas e arruelas (kit);4;Disponivel;C4E4P1;2;6
+Abracadeira de nylon (100 unid);4;Estoque de Seguranca;C4E4P2;4;10
+Fita isolante (rolo);16;Disponivel;C4E4P3;10;25
+Fita crepe (rolo);18;Disponivel;C4E4P4;5;12
+Cola de vedacao (silicone);4;Estoque de Seguranca;C4E4P5;8;20
+Pneu (unidade) - medidas comuns;6;Fazer Pedido;C4E5P1;4;12
+Camara de ar;10;Disponivel;C4E5P2;4;10
+Valvula de pneu (unid);0;Indisponivel;C4E5P3;30;60
+Peso de balanceamento (kit);2;Disponivel;C4E5P4;1;3
+Calco de roda (par);0;Indisponivel;C4E5P5;4;10
