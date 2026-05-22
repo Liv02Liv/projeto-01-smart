@@ -24,7 +24,7 @@ Durante o desenvolvimento do projeto no curso de PCP, foi identificado um proble
 
 - **Tempo excessivo** na busca de materiais no estoque
 - **Falta de organização** física e sistêmica dos itens
-- **Paradas de máquina** por ausência de peças no momento certo
+- **Paradas de máquina** por ausência de peças
 
 Esses fatores impactam diretamente a produtividade e os custos operacionais da empresa, tornando essencial um sistema confiável de controle de estoque.
 
