@@ -1,6 +1,6 @@
 # 🏭 Smart Inventores — Sistema de Gestão de Estoque
 
-> Projeto desenvolvido pela **Equipe PCP — SENAI Marechal Cândido Rondon**  
+> Projeto desenvolvido pela **Equipe PCP — SENAI **  
 > Disciplina: Planejamento e Controle da Produção (PCP)
 
 ---
