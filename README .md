@@ -8,7 +8,7 @@
 ## 📌 Sumário
 
 1. [O Problema](#-o-problema)
-2. [Protótipo Inicial — SIO](#-protótipo-inicial--sio)
+2. [Interface de Apresentação — Canva + QR Code](#-interface-de-apresentação--canva--qr-code)
 3. [Solução Inicial — Planilhas](#-solução-inicial--planilhas)
 4. [Evolução — Sistema em Python](#-evolução--sistema-em-python)
 5. [Análise com SQLite](#-análise-com-sqlite)
@@ -24,56 +24,53 @@ Durante o desenvolvimento do projeto no curso de PCP, foi identificado um proble
 
 - **Tempo excessivo** na busca de materiais no estoque
 - **Falta de organização** física e sistêmica dos itens
-- **Paradas de máquina** por ausência de peças
+- **Paradas de máquina** por ausência de peças no momento certo
 
 Esses fatores impactam diretamente a produtividade e os custos operacionais da empresa, tornando essencial um sistema confiável de controle de estoque.
 
 ---
 
-## 🖼️ Protótipo Inicial — SIO
+## 🎨 Interface de Apresentação — Canva + QR Code
 
-Antes de qualquer linha de código ou planilha estruturada, o projeto nasceu como uma **proposta conceitual** batizada de **SIO — Smart Inventory Optimization**.
+Antes de qualquer planilha ou código, o projeto ganhou uma **identidade visual profissional** criada no **Canva**. A interface foi desenvolvida como ponto de entrada ao sistema, acessada pelos usuários através de um **QR Code**.
 
-### Slide de apresentação
+### O que a interface continha
 
-O primeiro artefato do projeto foi um slide de apresentação que sintetizava a proposta de valor:
+- **Logotipo SIO** — Smart Inventory Optimization, com design moderno em tons de azul e ciano
+- **Descrição do projeto** — apresentação da proposta de valor do sistema
+- **Slogan** — *"Estoque organizado, empresa otimizada — o segredo para reduzir custos e aumentar a eficiência"*
+- **Botão Planilha** — acesso direto à planilha de controle de estoque
+- **Botão Feedback** — canal para coleta de retorno dos usuários
 
-> *"Estoque organizado, empresa otimizada — o segredo para reduzir custos e aumentar a eficiência."*
+Essa interface funcionava como um **hub de navegação**, conectando os usuários às ferramentas do projeto de forma simples e acessível — bastava apontar a câmera do celular para o QR Code.
 
-O slide continha o logotipo do SIO, uma breve descrição do sistema e dois pontos de acesso: **Planilha** e **Feedback** — sinalizando desde o início que o projeto seria construído de forma iterativa, coletando retorno dos usuários a cada etapa.
-
-### Planilha protótipo
-
-A primeira versão operacional foi uma planilha no **Excel/OneDrive**, com as seguintes colunas:
-
-| Coluna | Descrição |
-|---|---|
-| **ID do Item** | Identificador único (ITM001, ITM002…) |
-| **Nome da Peça** | Descrição do item |
-| **Quantidade/A** | Quantidade disponível |
-| **Localização** | Corredor de armazenamento (C1, C2, C3…) |
-| **Status** | Situação do item (ex.: INDISPONÍVEL, em destaque rosa) |
-| **Data de Retirada** | Registro da última movimentação |
-| **Peças Retiradas** | Quantidade retirada na operação |
-| **Nome do Operador** | Responsável pela movimentação |
-
-Essa versão já demonstrava os conceitos centrais do sistema — **rastreabilidade por localização**, **controle de status visual** e **registro de operador** — que foram mantidos e aprimorados em todas as versões seguintes.
-
-> 💡 O protótipo foi fundamental para validar a estrutura de dados antes de migrar para Python e, posteriormente, para SQLite.
+> 💡 A escolha do Canva + QR Code mostrou preocupação com a **experiência do usuário** desde o início do projeto, mesmo antes de existir um sistema completo.
 
 ---
 
 ## 📊 Solução Inicial — Planilhas
 
-A primeira abordagem foi desenvolvida utilizando **planilhas eletrônicas** (`smart-dados.xlsx`).
+A primeira solução operacional foi uma **planilha desenvolvida no Excel e hospedada no OneDrive**, acessível também pela interface do Canva. O objetivo era simular um sistema real de controle de estoque antes de partir para uma solução em código.
 
-O objetivo era simular um sistema de controle de estoque com:
+### Estrutura da planilha
 
-- Registro de entrada e saída de itens
-- Organização por localização (corredor, estante e prateleira)
-- Controle manual de quantidades mínimas e máximas
+| Coluna | Descrição |
+|---|---|
+| **ID do Item** | Identificador único de cada peça (ITM001, ITM002…) |
+| **Nome da Peça** | Descrição do item armazenado |
+| **Quantidade/A** | Quantidade disponível no estoque |
+| **Localização** | Corredor de armazenamento (C1, C2, C3, C4, C5…) |
+| **Status** | Situação do item — **INDISPONÍVEL** destacado em rosa quando sem estoque |
+| **Data de Retirada** | Data do último registro de saída |
+| **Peças Retiradas** | Quantidade retirada na operação |
+| **Nome do Operador** | Responsável pela movimentação |
 
-Essa etapa foi fundamental para **validar a ideia** e entender os dados reais do estoque antes de partir para uma solução mais robusta.
+### O que essa etapa validou
+
+- A estrutura de **organização por localização** (corredores), que se manteve em todas as versões seguintes
+- O conceito de **status visual** por cor — INDISPONÍVEL em rosa, que evoluiu para o sistema de cores verde/amarelo/vermelho/cinza no Python
+- A necessidade de **registro de operador e data**, garantindo rastreabilidade das movimentações
+- Os **limites práticos da planilha**: sem alertas automáticos, sem histórico consolidado e dependente de atualização manual — motivando a evolução para Python
 
 ---
 
@@ -320,4 +317,4 @@ sqlite3 estoque.db < sql/6__Análise-por-corredor.sql
 
 ---
 
-*Documento de uso interno — Gestão de Estoque com SQLite | Equipe PCP — SENAI Marechal Cândido Rondon*
+*Documento de uso interno — Gestão de Estoque com SQLite | Equipe PCP — SENAI*
