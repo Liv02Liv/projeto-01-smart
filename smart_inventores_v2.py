@@ -21,7 +21,7 @@ from tkinter import ttk, messagebox, simpledialog, filedialog
 from datetime import datetime
 import json
 import csv
-import os
+
 
 
 # ─────────────────────────────────────────────
@@ -53,7 +53,7 @@ class InventoryApp:
 
         # Variável para filtro de busca em tempo real
         self.search_var = tk.StringVar()
-        self.search_var.trace("w", self._filter_table)
+        self.search_var.trace("w", self._filter_table) # type: ignore
 
         # Carregar dados salvos
         self.load_data()
@@ -103,25 +103,25 @@ class InventoryApp:
         self.quantity_entry.grid(row=1, column=1, padx=5, pady=4)
 
         # Botões de ação
-        btn_cfg = {"font": ("Segoe UI", 9, "bold"), "width": 18, "pady": 4, "cursor": "hand2"}
+        btn_cfg = {"font": ("Segoe UI", 9, "bold"), "width": 18, "pady": 4, "cursor": "hand2"} # type: ignore
 
         tk.Button(entry_frame, text="➕  Registrar Entrada", bg="#27ae60", fg="white",
-                  command=self.register_entry, **btn_cfg).grid(row=0, column=2, padx=6)
+                  command=self.register_entry, **btn_cfg).grid(row=0, column=2, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         tk.Button(entry_frame, text="➖  Registrar Saída", bg="#e74c3c", fg="white",
-                  command=self.register_exit, **btn_cfg).grid(row=1, column=2, padx=6)
+                  command=self.register_exit, **btn_cfg).grid(row=1, column=2, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         tk.Button(entry_frame, text="🔍  Pesquisar Item", bg="#2980b9", fg="white",
-                  command=self.search_item, **btn_cfg).grid(row=0, column=3, padx=6)
+                  command=self.search_item, **btn_cfg).grid(row=0, column=3, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         tk.Button(entry_frame, text="⚙️  Definir Limites", bg="#8e44ad", fg="white",
-                  command=self.define_limits, **btn_cfg).grid(row=1, column=3, padx=6)
+                  command=self.define_limits, **btn_cfg).grid(row=1, column=3, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         tk.Button(entry_frame, text="🗑️  Remover Item", bg="#7f8c8d", fg="white",
-                  command=self.remove_item, **btn_cfg).grid(row=0, column=4, padx=6)
+                  command=self.remove_item, **btn_cfg).grid(row=0, column=4, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         tk.Button(entry_frame, text="📄  Exportar CSV", bg="#f39c12", fg="white",
-                  command=self.export_csv, **btn_cfg).grid(row=1, column=4, padx=6)
+                  command=self.export_csv, **btn_cfg).grid(row=1, column=4, padx=6) # pyright: ignore[reportUnknownArgumentType]
 
         # ── Barra de busca na tabela ──
         search_frame = tk.Frame(self.root, bg="#1e2d40")
@@ -149,7 +149,7 @@ class InventoryApp:
 
         self.tree.pack(fill=tk.BOTH, expand=True, padx=10, pady=8)
 
-        scroll = ttk.Scrollbar(self.root, orient="vertical", command=self.tree.yview)
+        scroll = ttk.Scrollbar(self.root, orient="vertical", command=self.tree.yview) # pyright: ignore[reportUnknownArgumentType, reportUnknownMemberType]
         self.tree.configure(yscrollcommand=scroll.set)
         scroll.pack(side=tk.RIGHT, fill=tk.Y)
 
@@ -462,7 +462,7 @@ class InventoryApp:
         self.tree.tag_configure("vermelho", background="#fddede", foreground="#7a0000")
         self.tree.tag_configure("cinza",    background="#e8e8e8", foreground="#555555")
 
-    def _filter_table(self, *args):
+    def _filter_table(self, *args): # pyright: ignore[reportMissingParameterType, reportUnknownParameterType]
         """Callback para filtro em tempo real."""
         self.update_tree(self.search_var.get())
 
@@ -495,7 +495,7 @@ class InventoryApp:
 
     def save_data(self):
         """Salva todos os dados do estoque em 'inventory_data.json'."""
-        data = {
+        data = { # pyright: ignore[reportUnknownVariableType]
             "stock_data": self.stock_data,
             "item_locations": self.item_locations,
             "history": self.history,

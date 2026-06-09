@@ -1,0 +1,18 @@
+{
+    "stock_data": {
+        "parafuso": 100
+    },
+    "item_locations": {
+        "parafuso": "C1E1P1"
+    },
+    "history": [
+        "[09/06/2026 09:34:28]  Entrada    100x  parafuso\n"
+    ],
+    "location_counter": 2,
+    "min_stock": {
+        "parafuso": 0
+    },
+    "max_stock": {
+        "parafuso": 100
+    }
+}
