@@ -1,7 +1,7 @@
 # 🏭 Smart Inventores — Sistema de Gestão de Estoque
 
-> Projeto desenvolvido pela **Equipe PCP — SENAI**  
-> Disciplina: Planejamento e Controle da Produção (PCP)
+> Projeto desenvolvido pela **Equipe Sio — SENAI Sobral**  
+> Disciplina: PROJETO DE INOVAÇÃO (PCP) 
 
 ---
 
@@ -60,7 +60,7 @@ A primeira solução operacional foi uma **planilha desenvolvida no Excel e hosp
 | **Nome da Peça** | Descrição do item armazenado |
 | **Quantidade/A** | Quantidade disponível no estoque |
 | **Localização** | Corredor de armazenamento (C1, C2, C3, C4, C5…) |
-| **Status** | Situação do item — **INDISPONÍVEL** destacado em rosa quando sem estoque |
+| **Status** | Situação do item — **INDISPONÍVEL** destacado em vermelho, quando sem estoque |
 | **Data de Retirada** | Data do último registro de saída |
 | **Peças Retiradas** | Quantidade retirada na operação |
 | **Nome do Operador** | Responsável pela movimentação |
@@ -68,7 +68,7 @@ A primeira solução operacional foi uma **planilha desenvolvida no Excel e hosp
 ### O que essa etapa validou
 
 - A estrutura de **organização por localização** (corredores), que se manteve em todas as versões seguintes
-- O conceito de **status visual** por cor — INDISPONÍVEL em rosa, que evoluiu para o sistema de cores verde/amarelo/vermelho/cinza no Python
+- O conceito de **status visual** por cor — INDISPONÍVEL em vermelho, que evoluiu para o sistema de cores verde/amarelo/vermelho/cinza no Python
 - A necessidade de **registro de operador e data**, garantindo rastreabilidade das movimentações
 - Os **limites práticos da planilha**: sem alertas automáticos, sem histórico consolidado e dependente de atualização manual — motivando a evolução para Python
 
@@ -278,8 +278,9 @@ ORDER BY
 smart-inventores/
 │
 ├── smart_inventores_v2.py          # Sistema desktop com interface gráfica
-├── smart-dados.xlsx                # Planilha base com os 100 itens do estoque
+├── Dados                           # Planilhas do estoque/historico
 ├── inventory_data.json             # Dados persistidos pelo sistema (gerado em runtime)
+├── dist                            # Executável
 │
 ├── sql/
 │   ├── 1__Situação-geral-por-status.sql
